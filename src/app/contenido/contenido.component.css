@@ -1,0 +1,75 @@
+.contenido{
+  height: 500px;
+  background-color: azure;
+  border: solid 5px;
+  margin-top: -20px;
+}
+section{
+  margin-top: 30px;
+}
+.cuadro1{
+  width: 20%;
+  height: 250px;
+  background-color: azure;
+  border: solid 5px;
+  float: left;
+  margin-left: 60px;
+
+}
+.cuadro2{
+  width: 20%;
+  height: 250px;
+  background-color: azure;
+  border: solid 5px;
+  float: left;
+  margin-left: 45px;
+}
+.cuadro3{
+  width: 20%;
+  height: 250px;
+  background-color: azure;
+  border: solid 5px;
+  float: left;
+  margin-left: 45px;
+}
+.cuadro4{
+  width: 20%;
+  height: 250px;
+  background-color: azure;
+  border: solid 5px;
+  float: left;
+  margin-left: 45px;
+}
+.text1{
+  width: 20%;
+  height: 250px;
+  border:5px;
+  float: left;
+  margin-left: 70px;
+  margin-top: -20px;
+
+}
+.text2{
+  width: 20%;
+  height: 250px;
+  border:5px;
+  float: left;
+  margin-left: 60px;
+  margin-top: -20px;
+}
+.text3{
+  width: 20%;
+  height: 250px;
+  border:5px;
+  float: left;
+  margin-left: 60px;
+  margin-top: -20px;
+}
+.text4{
+  width: 20%;
+  height: 250px;
+  border: 5px;
+  float: left;
+  margin-left: 60px;
+  margin-top: -20px;
+}
